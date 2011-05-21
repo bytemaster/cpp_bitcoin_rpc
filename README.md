@@ -16,7 +16,7 @@ The complete exposed API is found in bitcoin.hpp
 
 ### Donations ###
 
-    If you find this code helpful, please send me some bitcoins to 12FRNVjHoEuppFu9rJNbtxJpvzvkGN71Bn
+    If you find this code helpful, please send some bitcoins to 12FRNVjHoEuppFu9rJNbtxJpvzvkGN71Bn
 
 
 
